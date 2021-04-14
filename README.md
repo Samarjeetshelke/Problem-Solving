@@ -1,2 +1,2 @@
 # Hakerrank-problems
-To devolope logic.and finding the diffrent solutions
+To develope logic And finding the diffrent solutions
