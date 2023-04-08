@@ -1,2 +1,2 @@
 # Online-Problem-Statements
-To develope logic And finding the diffrent solutions
+To develope logic and to Finding the diffrent solutions/approach.
